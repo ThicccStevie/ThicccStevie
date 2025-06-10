@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+## 🔭 I’m currently working on Learning DEVOPS
+##  🌱 I’m currently learning APIs, Python, YAML
+## 👯 I’m looking to collaborate on almost anything! Hit me up!
+## 😄 Pronouns:HE/Him
 <!--
 **ThicccStevie/ThicccStevie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
